@@ -1,2 +1,2 @@
 # Permutation_Generator
-A C++ functional class for generating permutation
+A C++ functional class for generating permutation，and it's still developing...
